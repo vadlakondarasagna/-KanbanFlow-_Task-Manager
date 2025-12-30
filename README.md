@@ -25,7 +25,6 @@ It helps users organize, track, and manage tasks efficiently using a **Kanban-st
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -236,8 +235,4 @@ Please follow these guidelines:
 
 You can also open issues for bugs or feature requests.
 
----
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details .
